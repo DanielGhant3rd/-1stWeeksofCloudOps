@@ -1,12 +1,12 @@
-
+ 
 # _Azure Partner linked through Federation_
 
-# CONNECTED AZURE WHILE USING OKTA AS PRIMARY IDP 
+# Connected Azure while using Okta as primary IDP 
 
 
 
 ## Cloud
-- AZURE 
+- Azure 
 
 ## services
 - CloudFront for CDN

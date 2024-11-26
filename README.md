@@ -9,10 +9,10 @@
 - Azure 
 
 ## services
-- CloudFront for CDN
-- Route 53 for Domain Name System (DNS) web service.
-- Certificate Manager to get the SSL certificate for our website
-- S3 to store our website files and to make avilable for the world
+- Okta Developer Account
+- Azure P2 License 
+- Two Business Accounts
+- Microsoft 365 Admin
 
 ## Tools
 - GitHub to host our code 

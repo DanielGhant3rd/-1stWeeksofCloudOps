@@ -1,12 +1,12 @@
 
 # _Azure Partner linked through Federation_
 
-# Hosting Static website
+# CONNECTED AZURE WHILE USING OKTA AS PRIMARY IDP 
 
 
 
 ## Cloud
-- AWS 
+- AZURE 
 
 ## services
 - CloudFront for CDN

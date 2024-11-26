@@ -1,5 +1,5 @@
 
-# _Azure Partner linked through Federation Okta Primary IDP_
+# _Azure Partner linked through Federation_
 
 # Hosting Static website
 

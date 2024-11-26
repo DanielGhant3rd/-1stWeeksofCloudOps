@@ -1,5 +1,5 @@
 
-# _1stChallenge of 10WeeksofCloudOps project_
+# _Azure Partner linked through Federation Okta Primary IDP_
 
 # Hosting Static website
 

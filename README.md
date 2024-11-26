@@ -8,15 +8,14 @@
 ## Cloud
 - Azure 
 
-## services
+## Services
 - Okta Developer Account
 - Azure P2 License 
 - Two Business Accounts
 - Microsoft 365 Admin
 
-## Tools
-- GitHub to host our code 
-- CircleCI (CI-CD)to track the changes in github and implement Pipeline 
+## Languages Used
+- Powershell
 
 ## Plugins
 
